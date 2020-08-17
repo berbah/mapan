@@ -1,0 +1,7 @@
+baseURL = "https://berbah.github.io/"
+languageCode = "en-us"
+title = "Mapan"
+theme = "mapan"
+
+[params]
+  mainSliderButton = "#"

@@ -1,0 +1,11 @@
+    <div>
+      <div
+        class="fig"
+        style="background-image: url({{ .image | absURL }});"
+      >
+        <div class="caption">
+          <h3>{{ (replace .title "\n" "<br/>") | safeHTML}}</h3>
+          <p>{{ (replace .description "\n" "<br/>") | safeHTML}}</p>
+        </div>
+      </div>
+    </div>

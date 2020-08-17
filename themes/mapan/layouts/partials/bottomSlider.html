@@ -1,0 +1,9 @@
+<div>
+  <div class="fig-3" style="background-color: {{ .backgroundColor }};">
+    <div class="caption-3">
+      <h3>{{ (replace .title "\n" "<br/>") | safeHTML}}</h3>
+      <p>{{ (replace .description "\n" "<br/>") | safeHTML}}</p>
+    </div>
+    <img src="{{ .image | absURL }}" alt="" />
+  </div>
+</div>
