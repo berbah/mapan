@@ -5,7 +5,7 @@ Description: ""
 Tags: []
 Categories: []
 Promos: ["Arisan", "Sayur"]
-draft: true
+draft: false
 ---
 
 Hi

@@ -5,7 +5,7 @@ Description: ""
 Tags: []
 Categories: []
 Promos: ["Arisan"]
-draft: true
+draft: false
 ---
 
 Promo 1
