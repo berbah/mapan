@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mapan</title>
+    <link>https://berbah.github.io/</link>
+    <description>Recent content on Mapan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Aug 2020 02:13:24 +0700</lastBuildDate>
+    
+	<atom:link href="https://berbah.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://berbah.github.io/faq/</link>
+      <pubDate>Wed, 05 Aug 2020 02:13:24 +0700</pubDate>
+      
+      <guid>https://berbah.github.io/faq/</guid>
+      <description>FAQ</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>https://berbah.github.io/about-us/</link>
+      <pubDate>Wed, 05 Aug 2020 01:56:22 +0700</pubDate>
+      
+      <guid>https://berbah.github.io/about-us/</guid>
+      <description>about us</description>
+    </item>
+    
+    <item>
+      <title>Career</title>
+      <link>https://berbah.github.io/career/</link>
+      <pubDate>Wed, 05 Aug 2020 01:56:22 +0700</pubDate>
+      
+      <guid>https://berbah.github.io/career/</guid>
+      <description>career</description>
+    </item>
+    
+    <item>
+      <title>Partnership</title>
+      <link>https://berbah.github.io/partnership/</link>
+      <pubDate>Wed, 05 Aug 2020 01:56:22 +0700</pubDate>
+      
+      <guid>https://berbah.github.io/partnership/</guid>
+      <description>partnership</description>
+    </item>
+    
+  </channel>
+</rss>
