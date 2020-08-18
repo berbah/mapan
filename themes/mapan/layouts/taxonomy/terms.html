@@ -1,0 +1,11 @@
+{{ define "main" }}
+  
+  {{ range .Data.Terms.Alphabetical }}
+    
+    <h1><a href={{ .Page.Permalink }}>{{ .Page.Title }}</a></h1>
+    {{ $pageCount := .Count }}
+    <p>{{ $pageCount }} post{{ if ne $pageCount 1 }}s{{ end }} </p>
+
+  {{ end }}
+
+{{ end }}
