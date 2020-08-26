@@ -1,11 +1,32 @@
 {{ define "main" }}
-  
-  {{ range .Data.Terms.Alphabetical }}
-    
-    <h1><a href={{ .Page.Permalink }}>{{ .Page.Title }}</a></h1>
-    {{ $pageCount := .Count }}
-    <p>{{ $pageCount }} post{{ if ne $pageCount 1 }}s{{ end }} </p>
 
-  {{ end }}
+  <div class="taxonony-header">
+    <h2>{{ .Data.Singular }}</h2>
+  </div>
+
+  <img style="width:100%" src="{{ .Site.Data.config.promoHeaderImage | absURL }}" alt="" />
+
+  <div class="taxonomy-teaser">
+    If you are a media representative, please contact Mapan’s Public Relations department through publicrelations@ruma.co.id. Emails not of a press or media nature will not receive a reply.
+  </div>
+
+  <div class="taxonomy-list">
+    {{ range .Data.Terms.Alphabetical }}
+    
+      <div class="taxonomy-card">
+      
+        <div><a href={{ .Page.Permalink }}>{{ .Page.Title }}</a></div>
+        
+        {{ $firstChild := index .Pages.ByDate.Reverse 0 }}
+        
+        <h3><a href="{{ .Page.Permalink }}">{{ $firstChild.Title }}</a></h3>
+        {{ with $firstChild.Params.Description }}
+          {{ . }}
+        {{ end }}
+      
+      </div>
+
+    {{ end }}
+  </div>
 
 {{ end }}

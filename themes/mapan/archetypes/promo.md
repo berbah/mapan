@@ -4,6 +4,6 @@ date: {{ .Date }}
 Description: ""
 Tags: []
 Categories: []
-Promos: ["Arisan", "Pulsa", "Voucher", "Mart", "Donasi", "Sayur"]
+Promos: ["arisan", "pulsa", "voucher", "mart", "donasi", "sayur"]
 draft: true
 ---
