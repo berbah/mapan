@@ -12,14 +12,14 @@
 
   <div class="taxonomy-list">
     {{ range .Data.Terms.Alphabetical }}
-    
+
       <div class="taxonomy-card">
       
         <div><a href={{ .Page.Permalink }}>{{ .Page.Title }}</a></div>
         
         {{ $firstChild := index .Pages.ByDate.Reverse 0 }}
         
-        <h3><a href="{{ .Page.Permalink }}">{{ $firstChild.Title }}</a></h3>
+        <h3><a href="{{ $firstChild.Permalink }}">{{ $firstChild.Title }}</a></h3>
         {{ with $firstChild.Params.Description }}
           {{ . }}
         {{ end }}
