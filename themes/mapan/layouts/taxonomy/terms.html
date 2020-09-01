@@ -7,15 +7,26 @@
   <img style="width:100%" src="{{ .Site.Data.config.promoHeaderImage | absURL }}" alt="" />
 
   <div class="taxonomy-teaser">
-    If you are a media representative, please contact Mapan’s Public Relations department through publicrelations@ruma.co.id. Emails not of a press or media nature will not receive a reply.
+    {{ .Site.Data.config.promoPretext }}
   </div>
 
   <div class="taxonomy-list">
     {{ range .Data.Terms.Alphabetical }}
 
       <div class="taxonomy-card">
-      
-        <div><a href={{ .Page.Permalink }}>{{ .Page.Title }}</a></div>
+        
+        {{ $imagePath := print "images/" .Page.Data.Singular  "/"  .Page.Data.Term ".png" }}
+        {{ $absolutePath := print "themes/mapan/static/" $imagePath}}
+        
+        <div class="term-logo">
+          <a href={{ .Page.Permalink }}>
+            {{ if fileExists $absolutePath }}
+              <img style="height:35px" src="{{ $imagePath | absURL }}" alt="" />
+            {{ else }}
+              {{ .Page.Title }}
+            {{ end }}
+          </a>
+        </div>
         
         {{ $firstChild := index .Pages.ByDate.Reverse 0 }}
         

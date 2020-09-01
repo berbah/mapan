@@ -2,11 +2,13 @@
 <div class="wrapper">
   <header class="site-header">
     <div>
+      {{ $logo :=  "images/logo.png" }}
+      {{ $menu :=  "images/menu.png" }}
       <a href="/" class="site-logo">
-        <img src='{{ "images/logo.png" | absURL }}' alt="" />
+        <img src="{{ $logo | absURL }}" alt="" />
       </a>
       <button class="btn-menu" onclick="toggleSidebar()">
-        <img src='{{ "images/menu.png" | absURL }}' alt="" />
+        <img src="{{ $menu | absURL }}" alt="" />
       </button>
     </div>
   </header>
