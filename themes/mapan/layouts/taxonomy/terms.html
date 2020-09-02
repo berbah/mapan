@@ -21,7 +21,7 @@
         <div class="term-logo">
           <a href={{ .Page.Permalink }}>
             {{ if fileExists $absolutePath }}
-              <img style="height:35px" src="{{ $imagePath | absURL }}" alt="" />
+              <img src="{{ $imagePath | absURL }}" alt="" />
             {{ else }}
               {{ .Page.Title }}
             {{ end }}

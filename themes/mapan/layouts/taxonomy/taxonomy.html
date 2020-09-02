@@ -1,8 +1,30 @@
 {{ define "main" }}
+  
+  {{ $imagePath := print "images/" .Data.Singular  "/"  .Data.Term "-white.png" }}
+  {{ $absolutePath := print "themes/mapan/static/" $imagePath}}
 
-  {{ range .Paginator.Pages }}
-    <h1><a href={{ .Permalink }}>{{ .Title }}</a></h1>
-  {{ end }}
+  <div class="taxonony-header">
+    {{ if fileExists $absolutePath }}
+      <img src="{{ $imagePath | absURL }}" alt="" />
+    {{ else }}
+    <h2>{{ .Data.Singular }} {{ .Data.Term }}</h2>
+    {{ end }}
+  </div>
+
+  <div class="term-list">
+    {{ range .Paginator.Pages.ByDate.Reverse }}
+
+      <div class="term-card">
+        
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        {{ with .Params.Description }}
+          {{ . }}
+        {{ end }}
+      
+      </div>
+
+    {{ end }}
+  </div>
   
   {{ partial "pagination.html" . }}
 

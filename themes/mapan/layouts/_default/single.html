@@ -4,12 +4,19 @@
 
 {{ define "main" }}
 
+  {{ with .Params.Image }}
+    {{ $imagePath := print "images/" . }}
+    {{ $absolutePath := print "static/" $imagePath}}
+    {{ if fileExists $absolutePath }}
+      <div class="single-image-cover">
+        <img src="{{ $imagePath | absURL }}" alt="" />
+      </div>
+    {{ end }}
+  {{ end }}
+
   <section class="content">
     
-    <div style="color:grey; font-size:16px;">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
-    <div style="color:grey; font-size:16px;">{{ if .Params.tags }}<strong>Tags:</strong> {{range .Params.tags}}<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
-    <div style="color:grey; font-size:16px;">{{ if .Params.categories }}<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
-    <div style="color:grey; font-size:16px;">{{ if .Params.promos }}<strong>Promos:</strong> {{range .Params.promos}}<a href="{{ "/promos/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
+    <h1>{{ .Title }}</h1>
 
     {{ .Content }}
 
