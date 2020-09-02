@@ -449,9 +449,13 @@ img {
   padding: 12px 0 24px;
 }
 .taxonomy-card {
-    padding: 12px 0 24px;
+  border-top: solid 1px #ddd;
+  padding: 12px 0 24px;
 }
-.term-logo a img {
+.taxonomy-card .term-logo {
+  margin: 0.5rem 0 1rem;
+}
+.taxonomy-card .term-logo a img {
   height: 35px;
 }
 .pagination {
