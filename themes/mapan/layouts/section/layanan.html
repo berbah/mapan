@@ -5,7 +5,7 @@
   </div>
 
   <div class="term-list">
-    {{ range .Paginator.Pages.ByDate.Reverse }}
+    {{ range .Pages.ByDate.Reverse }}
 
       <div class="term-card">
         
@@ -18,7 +18,5 @@
 
     {{ end }}
   </div>
-  
-  {{ partial "pagination.html" . }}
 
 {{ end }}
