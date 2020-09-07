@@ -1,6 +1,6 @@
 ---
-label: Promo - Template
-hide_body: false
+label: Promo
+hide_body: true
 fields:
 - type: text
   name: title
