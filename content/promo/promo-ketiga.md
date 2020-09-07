@@ -9,4 +9,4 @@ Promos:
 - pulsa
 
 ---
-Promo Ketiga dari Binar
+Promo Ketiga dari Binar xx
