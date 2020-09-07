@@ -23,3 +23,5 @@ fields:
 - type: list
   name: Promos
   label: Promos
+  config:
+    use_select: false
