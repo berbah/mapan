@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media on Mapan</title>
+    <link>https://berbah.github.io/media/</link>
+    <description>Recent content in Media on Mapan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Aug 2020 21:53:08 +0700</lastBuildDate>
+    
+	<atom:link href="https://berbah.github.io/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>History</title>
+      <link>https://berbah.github.io/media/history/</link>
+      <pubDate>Tue, 18 Aug 2020 21:56:35 +0700</pubDate>
+      
+      <guid>https://berbah.github.io/media/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awards and Achivements</title>
+      <link>https://berbah.github.io/media/awards-and-achivements/</link>
+      <pubDate>Tue, 18 Aug 2020 21:56:25 +0700</pubDate>
+      
+      <guid>https://berbah.github.io/media/awards-and-achivements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Press Release</title>
+      <link>https://berbah.github.io/media/press-release/</link>
+      <pubDate>Tue, 18 Aug 2020 21:56:03 +0700</pubDate>
+      
+      <guid>https://berbah.github.io/media/press-release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Press Kit</title>
+      <link>https://berbah.github.io/media/press-kit/</link>
+      <pubDate>Tue, 18 Aug 2020 21:55:36 +0700</pubDate>
+      
+      <guid>https://berbah.github.io/media/press-kit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

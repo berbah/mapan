@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Layanan on Mapan</title>
+    <link>https://berbah.github.io/layanan/</link>
+    <description>Recent content in Layanan on Mapan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Aug 2020 21:53:08 +0700</lastBuildDate>
+    
+	<atom:link href="https://berbah.github.io/layanan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sayur</title>
+      <link>https://berbah.github.io/layanan/sayur/</link>
+      <pubDate>Tue, 18 Aug 2020 21:54:44 +0700</pubDate>
+      
+      <guid>https://berbah.github.io/layanan/sayur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Donasi</title>
+      <link>https://berbah.github.io/layanan/donasi/</link>
+      <pubDate>Tue, 18 Aug 2020 21:54:39 +0700</pubDate>
+      
+      <guid>https://berbah.github.io/layanan/donasi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mart</title>
+      <link>https://berbah.github.io/layanan/mart/</link>
+      <pubDate>Tue, 18 Aug 2020 21:54:34 +0700</pubDate>
+      
+      <guid>https://berbah.github.io/layanan/mart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voucher</title>
+      <link>https://berbah.github.io/layanan/voucher/</link>
+      <pubDate>Tue, 18 Aug 2020 21:54:28 +0700</pubDate>
+      
+      <guid>https://berbah.github.io/layanan/voucher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pulsa</title>
+      <link>https://berbah.github.io/layanan/pulsa/</link>
+      <pubDate>Tue, 18 Aug 2020 21:54:21 +0700</pubDate>
+      
+      <guid>https://berbah.github.io/layanan/pulsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arisan</title>
+      <link>https://berbah.github.io/layanan/arisan/</link>
+      <pubDate>Tue, 18 Aug 2020 21:53:08 +0700</pubDate>
+      
+      <guid>https://berbah.github.io/layanan/arisan/</guid>
+      <description>Layanan Arisan</description>
+    </item>
+    
+  </channel>
+</rss>
