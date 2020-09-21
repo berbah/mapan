@@ -1,0 +1,27 @@
+{{- $src := .Get "src" -}}
+{{- $title := .Get "title" -}}
+{{- $description := .Get "description" -}}
+{{- $type := .Get "type" -}}
+{{- $bgColor := .Get "bgColor" -}}
+
+<div>
+{{ if eq $type "bottom" }}
+  <div class="fig-3" style="background-color: {{ $bgColor }};">
+    <div class="caption-3">
+      <h3>{{ (replace $title "\n" "<br/>") | safeHTML}}</h3>
+      <p>{{ (replace $description "\n" "<br/>") | safeHTML}}</p>
+    </div>
+    <img src="{{ $src | absURL }}" alt="" />
+  </div>
+{{ else }}
+  <div
+    class="fig"
+    style="background-image: url({{ $src | absURL }});"
+  >
+    <div class="caption">
+      <h3>{{ (replace $title "\n" "<br/>") | safeHTML}}</h3>
+      <p>{{ (replace $description "\n" "<br/>") | safeHTML}}</p>
+    </div>
+  </div>
+{{ end }}
+</div>

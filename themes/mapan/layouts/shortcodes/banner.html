@@ -1,0 +1,7 @@
+{{- $src := .Get "src" -}}
+{{- $caption := .Get "caption" -}}
+<div class="fig2" style='background-image: url({{ $src | absURL }});'>
+    <div class="caption-2">
+        {{ $caption }}
+    </div>
+</div>

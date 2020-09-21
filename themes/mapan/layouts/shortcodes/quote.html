@@ -1,0 +1,22 @@
+{{- $hType := .Get "hType" | default "h4" -}}
+{{- $title := .Get "title" -}}
+<section class={{ .Get "class" }}>
+  
+  {{ if .Get "src" }}
+  {{- $src := .Get "src" -}}  
+  <img src='{{ $src | absURL }}' alt="" />
+  {{ end }}
+  
+  {{ if $title }}
+    {{ if eq $hType "h2"}}
+    <h2>{{ $title }}</h2>
+    {{ else }}
+    <h4>{{ $title }}</h4>
+    {{ end }}  
+  {{ end }}
+
+  <p>
+    {{ .Inner }}
+  </p>
+  
+</section>

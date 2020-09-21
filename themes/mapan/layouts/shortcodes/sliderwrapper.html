@@ -1,0 +1,10 @@
+<div class="{{ .Get "classOuter" }}">
+  <div class="{{ .Get "classInner" }}">
+    {{.Inner}}
+  </div>
+  {{ if .Get "url" }}
+  <div class="cta">
+    <a href="{{.Get "url" }}" class="btn">Gabung Sekarang</a>
+  </div>
+  {{ end }}
+</div>
