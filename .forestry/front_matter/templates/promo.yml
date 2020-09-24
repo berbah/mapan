@@ -4,10 +4,15 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: datetime
   name: date
-  label: date
+  label: Date
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
 - type: textarea
   name: Description
   label: Description
@@ -22,10 +27,5 @@ fields:
   label: Promos
   config:
     use_select: false
-- name: image
-  type: file
-  config:
-    maxSize: 64
-  label: image
 pages:
 - content/promo/promo-20200907.md
