@@ -23,5 +23,3 @@ fields:
 - type: list
   name: Promos
   label: Promos
-pages:
-- content/promo/promo-september-ceria.md
