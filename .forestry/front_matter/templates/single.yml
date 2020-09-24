@@ -16,4 +16,5 @@ fields:
   label: Description
 pages:
 - content/_index.md
+- content/partnership.md
 - content/promo/testing-binar.md
