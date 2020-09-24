@@ -1,8 +1,8 @@
 +++
-title = "Homepage"
-date = 2020-08-05T02:13:24.000+07:00
-image = ""
 Description = "Halaman Utama"
+date = 2020-08-04T19:13:24Z
+image = ""
+title = "Homepage"
 
 +++
 {{< sliderwrapper url="#" classOuter="hero" classInner="siema" >}}

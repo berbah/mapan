@@ -15,4 +15,5 @@ fields:
   name: Description
   label: Description
 pages:
+- content/_index.md
 - content/promo/testing-binar.md
