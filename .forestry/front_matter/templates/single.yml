@@ -16,6 +16,7 @@ fields:
   label: Description
 pages:
 - content/_index.md
+- content/about-us.md
 - content/career.md
 - content/faq.md
 - content/partnership.md
