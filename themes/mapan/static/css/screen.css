@@ -226,6 +226,9 @@ img {
 .content p {
   margin-bottom: 1rem;
 }
+.content p img {
+  width: 100%;
+}
 .content, .layanan {
   padding: 24px;
 }
