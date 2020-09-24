@@ -5,11 +5,10 @@
 {{ define "main" }}
 
   {{ with .Params.Image }}
-    {{ $imagePath := print "images/" . }}
-    {{ $absolutePath := print "static/" $imagePath}}
+    {{ $absolutePath := print "static/" . }}
     {{ if fileExists $absolutePath }}
       <div class="single-image-cover">
-        <img src="{{ $imagePath | absURL }}" alt="" />
+        <img src="{{ . | absURL }}" alt="" />
       </div>
     {{ end }}
   {{ end }}

@@ -1,13 +1,13 @@
----
-title: "Kejutan Arisan Di September 2020"
-image: ""
-date: 2020-09-02T20:27:10+07:00
-Description: "Mereka memberikan kejutan promo diskon hingga 88% yang akan memanjakan para pelanggan setianya. Ayo tunggu apalagi."
-Tags: []
-Categories: []
-Promos: ["arisan", "voucher", ]
-draft: false
----
++++
+title = "Kejutan Arisan Di September 2020"
+image = ""
+date = 2020-09-02T20:27:10+07:00
+Description = "Mereka memberikan kejutan promo diskon hingga 88% yang akan memanjakan para pelanggan setianya. Ayo tunggu apalagi."
+Tags = []
+Categories = []
+Promos = ["arisan", "voucher", ]
+draft = false
++++
 
 Liputan6.com, Jakarta – Mengulang kesuksesan Shopathon di tahun-tahun sebelumnya, Watsons Indonesia kembali menggelar festival belanja online tahun ini Watsons Crazy 8.8 Shopathon pada platform belanja online resminya (e-commerce) yang berlangsung pada 8 – 10 Agustus 2020.
 

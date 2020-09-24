@@ -1,8 +1,8 @@
----
-title: Homepage
-date: 2020-08-05T02:13:24.000+07:00
++++
+title = "Homepage"
+date = 2020-08-05T02:13:24.000+07:00
 
----
++++
 {{< sliderwrapper url="#" classOuter="hero" classInner="siema" >}}
   {{< slideritem src="images/hero-img.jpg" title="Memenuhi kebutuhan mewujudkan impian" description="Lewat aplikasi mapan bersama-sama wujudkan impian di setiap tahap kehidupanmu">}}
   {{< slideritem src="images/hero-img2.jpg" title="Memenuhi kebutuhan mewujudkan impian" description="Lewat aplikasi mapan bersama-sama wujudkan impian di setiap tahap kehidupanmu">}}
