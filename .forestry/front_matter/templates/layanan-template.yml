@@ -18,4 +18,10 @@ fields:
   name: Categories
   label: Categories
 pages:
+- content/layanan/_index.md
+- content/layanan/arisan.md
+- content/layanan/donasi.md
+- content/layanan/mart.md
+- content/layanan/pulsa.md
+- content/layanan/sayur.md
 - content/layanan/voucher.md

@@ -23,3 +23,11 @@ fields:
 - type: list
   name: Promos
   label: Promos
+pages:
+- content/promo/dapatkan-poin-arisan-di-bulan-agustus.md
+- content/promo/kejutan-arisan-di-september-2020.md
+- content/promo/pemenang-undian-arisan-akhir-tahun-2020.md
+- content/promo/promo-20200907.md
+- content/promo/promo-kedua.md
+- content/promo/promo-ketiga.md
+- content/promo/testing-binar.md
