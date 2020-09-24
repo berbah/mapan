@@ -2,15 +2,15 @@
 label: Single
 hide_body: false
 fields:
-- type: datetime
-  name: date
-  label: date
-- type: file
-  name: image
-  label: image
 - type: text
   name: title
-  label: title
+  label: Title
+- type: datetime
+  name: date
+  label: Date
+- type: file
+  name: image
+  label: Image
 - type: text
   name: Description
   label: Description
