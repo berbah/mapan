@@ -14,5 +14,4 @@ fields:
     maxSize: 64
   label: image
 pages:
-- content/posting-pertama-william.md
 - content/postingan-single-page-william.md
