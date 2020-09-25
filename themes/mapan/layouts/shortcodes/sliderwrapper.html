@@ -4,7 +4,7 @@
   </div>
   {{ if .Get "url" }}
   <div class="cta">
-    <a href="{{.Get "url" }}" class="btn">Gabung Sekarang</a>
+    <a href="{{.Get "url" }}"  target="_blank" class="btn">{{ .Get "buttonLabel" }}</a>
   </div>
   {{ end }}
 </div>

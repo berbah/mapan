@@ -4,6 +4,19 @@
     <h2>{{ .Title }}</h2>
   </div>
 
+  {{ with .Params.Image }}
+    {{ $absolutePath := print "static/" . }}
+    {{ if fileExists $absolutePath }}
+      <div class="single-image-cover">
+        <img src="{{ . | absURL }}" alt="" />
+      </div>
+    {{ end }}
+  {{ end }}
+  
+  <div class="taxonomy-teaser">
+    {{ .Content }}
+  </div>
+
   <div class="term-list">
     {{ range .Pages.ByDate.Reverse }}
 

@@ -5,7 +5,7 @@ image = ""
 title = "Homepage"
 
 +++
-{{< sliderwrapper url="#" classOuter="hero" classInner="siema" >}}
+{{< sliderwrapper url="https://play.google.com/store/apps/details?id=com.garena.ruma&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" classOuter="hero" classInner="siema" buttonLabel="Gabung Sekarang" >}}
   {{< slideritem src="images/hero-img.jpg" title="Memenuhi kebutuhan mewujudkan impian" description="Lewat aplikasi mapan bersama-sama wujudkan impian di setiap tahap kehidupanmu">}}
   {{< slideritem src="images/hero-img2.jpg" title="Memenuhi kebutuhan mewujudkan impian" description="Lewat aplikasi mapan bersama-sama wujudkan impian di setiap tahap kehidupanmu">}}
 {{< /sliderwrapper >}}
