@@ -1,7 +1,7 @@
 +++
 Categories = []
 Description = "desc promo"
-Promos = []
+Promos = ["arisan"]
 Tags = []
 date = 2020-09-24T17:00:00Z
 draft = true
