@@ -7,8 +7,7 @@ fields:
   label: title
 - type: datetime
   name: date
-  label: Date
-  default: now
+  label: date
 - type: textarea
   name: Description
   label: Description

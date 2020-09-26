@@ -8,7 +8,6 @@ fields:
 - type: datetime
   name: date
   label: date
-  default: now
 - type: textarea
   name: Description
   label: Description
