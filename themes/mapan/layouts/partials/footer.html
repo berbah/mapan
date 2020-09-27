@@ -5,12 +5,9 @@
     </div>
 
     <div class="footer-menus">
-      <div><a href="/about-us">About Us</a></div>
-      <div><a href="/partnership">Parthership</a></div>
-      <div><a href="/contact-us">Contact Us</a></div>
-      <div><a href="/faq">FAQ</a></div>
-      <div><a href="/media">Media Relation</a></div>
-      <div><a href="/promos">Promo</a></div>
+      {{ range .Site.Menus.footer }}
+        <div><a href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a></div>
+      {{ end }}
     </div>
 
     <div class="social">

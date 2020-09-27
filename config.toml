@@ -4,10 +4,100 @@ title = "Mapan"
 theme = "mapan"
 paginate = 5
 
-[params]
-  mainSliderButton = "#"
-
 [taxonomies]
   category = "categories"
   tag = "tags"
   promo = "promos"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about-us"
+    name = "Tentang Mapan"
+    pre = ""
+    url = "/about-us/"
+    weight = -100
+
+  [[menu.main]]
+    identifier = "layanan"
+    name = "Layanan"
+    pre = ""
+    url = "/layanan/"
+    weight = -90
+
+  [[menu.main]]
+    identifier = "promos"
+    name = "Promo"
+    pre = ""
+    url = "/promos/"
+    weight = -80
+
+  [[menu.main]]
+    identifier = "media"
+    name = "Media Release"
+    pre = ""
+    url = "/media/"
+    weight = -70
+
+  [[menu.main]]
+    identifier = "partnership"
+    name = "Partner Inquiry"
+    pre = ""
+    url = "/partnership/"
+    weight = -60
+
+  [[menu.main]]
+    identifier = "faq"
+    name = "FAQ"
+    pre = ""
+    url = "/faq/"
+    weight = -50
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    pre = ""
+    url = "https://www.mapan.id/blog/"
+    weight = -40
+
+  [[menu.footer]]
+    identifier = "about-us"
+    name = "About Us"
+    pre = ""
+    url = "/about-us/"
+    weight = -100
+
+  [[menu.footer]]
+    identifier = "partnership"
+    name = "Partner Inquiry"
+    pre = ""
+    url = "/layanan/"
+    weight = -90
+
+  [[menu.footer]]
+    identifier = "contant-us"
+    name = "Contact Us"
+    pre = ""
+    url = "/contant-us/"
+    weight = -80
+
+  [[menu.footer]]
+    identifier = "faq"
+    name = "FAQ"
+    pre = ""
+    url = "/faq/"
+    weight = -70
+
+  [[menu.footer]]
+    identifier = "media"
+    name = "Media Release"
+    pre = ""
+    url = "/media/"
+    weight = -60
+
+  [[menu.footer]]
+    identifier = "promos"
+    name = "Promo"
+    pre = ""
+    url = "/promos/"
+    weight = -50

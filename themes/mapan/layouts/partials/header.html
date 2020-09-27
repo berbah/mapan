@@ -14,12 +14,8 @@
   </header>
   <nav class="site-nav">
     <div>
-      <a href="/about-us">Tentang Mapan</a>
-      <a href="/layanan">Layanan</a>
-      <a href="/promos">Promo</a>
-      <a href="/media">Media Release</a>
-      <a href="/partnership">Partner Inquiry</a>
-      <a href="/faq">FAQ</a>
-      <a href="https://www.mapan.id/blog/">Blog</a>
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a>
+      {{ end }}
     </div>
   </nav>
