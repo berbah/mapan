@@ -4,6 +4,7 @@
     <title>{{ block "title" . }}
         {{ .Site.Title }}
     {{ end }}</title>
+    <meta name="description" content="{{ block "Description" .}}{{ .Site.Params.description }}{{ end }}" />
     <body>
         {{- partial "header.html" . -}}
         <main>

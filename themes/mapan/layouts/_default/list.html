@@ -4,6 +4,10 @@
     <h2>{{ .Title }}</h2>
   </div>
 
+  {{ define "Description" }}
+    {{ .Description }}
+  {{ end }}
+
   <div class="term-list">
     {{ range .Paginator.Pages.ByDate.Reverse }}
 

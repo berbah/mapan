@@ -4,6 +4,9 @@ title = "Mapan"
 theme = "mapan"
 paginate = 5
 
+[params]
+  description = "Mapan.id"
+
 [taxonomies]
   category = "categories"
   tag = "tags"

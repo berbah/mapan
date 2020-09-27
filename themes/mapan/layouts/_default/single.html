@@ -2,6 +2,10 @@
   {{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
 
+{{ define "Description" }}
+  {{ .Description }}
+{{ end }}
+
 {{ define "main" }}
 
   {{ with .Params.Image }}
