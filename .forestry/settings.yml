@@ -35,7 +35,7 @@ sections:
 - type: directory
   path: content/promos
   label: Promo Parent Management
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - single
