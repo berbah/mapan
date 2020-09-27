@@ -1,13 +1,14 @@
 ---
-label: Media - Template
+label: Media
 hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: datetime
   name: date
-  label: date
+  label: Date
+  default: now
 - type: textarea
   name: Description
   label: Description
