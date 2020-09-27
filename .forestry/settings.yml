@@ -32,6 +32,13 @@ sections:
   match: "**/*"
   templates:
   - layanan-template
+- type: directory
+  path: promos
+  label: "- Promo Parent Management -"
+  create: all
+  match: "**/*"
+  templates:
+  - single
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
