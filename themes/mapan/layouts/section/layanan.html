@@ -17,12 +17,25 @@
     {{ .Content }}
   </div>
 
-  <div class="term-list">
-    {{ range .Pages.ByDate.Reverse }}
+  <div class="taxonomy-list">
+    {{ range .Pages.ByTitle }}
 
-      <div class="term-card">
+      <div class="taxonomy-card">
+
+        {{ $filename := lower .Title }}
+        {{ $imagePath := print "/images/" $filename ".png" }}
+        {{ $absolutePath := print "static" $imagePath}}
+
+        <div class="term-logo">
+          <a href={{ .Page.Permalink }}>
+            {{ if fileExists $absolutePath }}
+              <img src="{{ $imagePath | absURL }}" alt="" />
+            {{ else }}
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            {{ end }}
+          </a>
+        </div>
         
-        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
         {{ with .Params.Description }}
           {{ . }}
         {{ end }}

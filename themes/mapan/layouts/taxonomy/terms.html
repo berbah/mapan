@@ -15,9 +15,8 @@
 
       <div class="taxonomy-card">
         
-        {{ $imagePath := print "images/" .Page.Data.Singular  "/"  .Page.Data.Term ".png" }}
-        {{ $absolutePath := print "themes/mapan/static/" $imagePath}}
-        
+        {{ $imagePath := print "/images/" .Page.Data.Term ".png" }}
+        {{ $absolutePath := print "static" $imagePath}}
         <div class="term-logo">
           <a href={{ .Page.Permalink }}>
             {{ if fileExists $absolutePath }}
