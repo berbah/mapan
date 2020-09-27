@@ -1,3 +1,7 @@
+{{ define "title" }}
+  {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+
 {{ define "main" }}
   
   {{ $imagePath := print "images/" .Data.Singular  "/"  .Data.Term "-white.png" }}
@@ -11,11 +15,26 @@
     {{ end }}
   </div>
 
+  {{ with .Params.Image }}
+    {{ $absolutePath := print "static/" . }}
+    {{ if fileExists $absolutePath }}
+      <div class="single-image-cover">
+        <img src="{{ . | absURL }}" alt="" />
+      </div>
+    {{ end }}
+  {{ end }}
+
+  {{ with .Content }}
+    <div class="taxonomy-teaser">
+      {{ . }}
+    </div>
+  {{ end }}
+
   <div class="term-list">
     {{ range .Paginator.Pages.ByDate.Reverse }}
 
       <div class="term-card">
-        
+
         <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
         {{ with .Params.Description }}
           {{ . }}
