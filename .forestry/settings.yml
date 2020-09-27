@@ -33,7 +33,7 @@ sections:
   templates:
   - layanan-template
 - type: directory
-  path: promos
+  path: content/promos
   label: Promo Parent Management
   create: all
   match: "**/*"
