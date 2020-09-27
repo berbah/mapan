@@ -1,1 +1,1 @@
-<li>{{ .Get "title" }}</li>
+<div class="li" {{ with .Get "color" }}style="color: {{.}}"{{ end }}>{{ .Get "title" }}</div>

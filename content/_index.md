@@ -48,12 +48,18 @@ title = "Homepage"
 {{< /quote >}}
 
 {{< listwrapper class="layanan" title="Layanan Mapan" >}}
-  {{< listitem title="Mapan Mart" >}}
-  {{< listitem title="Mapan Sayur" >}}
-  {{< listitem title="Mapan Pulsa" >}}
-  {{< listitem title="Mapan Voucher" >}}
-  {{< listitem title="Mapan Donasi" >}}
-  {{< listitem title="Mapan Arisan" >}}
+  {{< listitem title="Mapan Mart" color="#ffcb0b" >}}
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor elit sed vulputate mi sit. In massa tempor nec feugiat nisl pretium fusce id velit.
+  {{< listitem title="Mapan Sayur" color="#ee422f" >}}
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor elit sed vulputate mi sit. In massa tempor nec feugiat nisl pretium fusce id velit.
+  {{< listitem title="Mapan Pulsa" color="#61b3f1" >}}
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor elit sed vulputate mi sit. In massa tempor nec feugiat nisl pretium fusce id velit.
+  {{< listitem title="Mapan Voucher" color="#00aa13" >}}
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor elit sed vulputate mi sit. In massa tempor nec feugiat nisl pretium fusce id velit.
+  {{< listitem title="Mapan Donasi" color="#a473ab" >}}
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor elit sed vulputate mi sit. In massa tempor nec feugiat nisl pretium fusce id velit.
+  {{< listitem title="Mapan Arisan" color="#f79421" >}}
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor elit sed vulputate mi sit. In massa tempor nec feugiat nisl pretium fusce id velit.
 {{< /listwrapper >}}
 
 {{< br >}}

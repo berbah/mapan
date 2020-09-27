@@ -236,39 +236,18 @@ img {
   color: var(--green);
   font-size: 24px;
 }
-.layanan ul {
+.layanan .ul {
   margin-top: 1em;
   list-style: none;
 }
-.layanan ul li {
+.layanan .ul .li {
   line-height: 36px;
   border-top: solid 1px #eee;
   font-weight: 700;
 }
-.layanan ul li a {
+.layanan .ul .li a {
   color: inherit;
   text-decoration: none !important;
-}
-.layanan ul li:nth-child(1) {
-  color: #ffcb0b;
-}
-.layanan ul li:nth-child(2) {
-  color: #ee422f;
-}
-.layanan ul li:nth-child(3) {
-  color: #61b3f1;
-}
-.layanan ul li:nth-child(4) {
-  color: #00aa13;
-}
-.layanan ul li:nth-child(5) {
-  color: #a473ab;
-}
-.layanan ul li:nth-child(6) {
-  color: #f79421;
-}
-.layanan ul li:last-of-type {
-  border-bottom: solid 1px #eee;
 }
 .story-h {
   padding: 40px 24px;
