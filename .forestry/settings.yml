@@ -9,21 +9,29 @@ sections:
   label: Pages
   create: all
   match: "*"
+  templates:
+  - single
 - type: directory
   path: content/promo
   label: Promo
   create: all
   match: "**/*"
+  templates:
+  - promo
 - type: directory
   path: content/media
   label: Media
   create: all
   match: "**/*"
+  templates:
+  - media-template
 - type: directory
   path: content/layanan
   label: Layanan
   create: all
   match: "**/*"
+  templates:
+  - layanan-template
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
