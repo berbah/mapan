@@ -1,1 +1,7 @@
-<div class="li" {{ with .Get "color" }}style="color: {{.}}"{{ end }}>{{ .Get "title" }}</div>
+<div class="li" {{ with .Get "color" }}style="color: {{.}}"{{ end }}>
+  {{ if .Get "url" }}
+    <a href="{{ .Get "url" }}">{{ .Get "title" }}</a>
+  {{ else }}
+    {{ .Get "title" }}
+  {{ end }}
+</div>

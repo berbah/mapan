@@ -5,4 +5,4 @@ image = "/images/upload_ff21439aa28648ce212722216f76ffb2.png"
 title = "Donasi"
 
 +++
-Donasi gais mantab lo promonya
+Kang Sayur gais

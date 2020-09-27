@@ -48,17 +48,17 @@ title = "Homepage"
 {{< /quote >}}
 
 {{< listwrapper class="layanan" title="Layanan Mapan" >}}
-  {{< listitem title="Mapan Mart" color="#ffcb0b" >}}
+  {{< listitem title="Mapan Mart" color="#ffcb0b" url="/layanan/mart" >}}
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor elit sed vulputate mi sit. In massa tempor nec feugiat nisl pretium fusce id velit.
-  {{< listitem title="Mapan Sayur" color="#ee422f" >}}
+  {{< listitem title="Mapan Sayur" color="#ee422f" url="/layanan/sayur" >}}
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor elit sed vulputate mi sit. In massa tempor nec feugiat nisl pretium fusce id velit.
-  {{< listitem title="Mapan Pulsa" color="#61b3f1" >}}
+  {{< listitem title="Mapan Pulsa" color="#61b3f1" url="/layanan/pulsa" >}}
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor elit sed vulputate mi sit. In massa tempor nec feugiat nisl pretium fusce id velit.
-  {{< listitem title="Mapan Voucher" color="#00aa13" >}}
+  {{< listitem title="Mapan Voucher" color="#00aa13" url="/layanan/voucher" >}}
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor elit sed vulputate mi sit. In massa tempor nec feugiat nisl pretium fusce id velit.
-  {{< listitem title="Mapan Donasi" color="#a473ab" >}}
+  {{< listitem title="Mapan Donasi" color="#a473ab" url="/layanan/donasi" >}}
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor elit sed vulputate mi sit. In massa tempor nec feugiat nisl pretium fusce id velit.
-  {{< listitem title="Mapan Arisan" color="#f79421" >}}
+  {{< listitem title="Mapan Arisan" color="#f79421" url="/layanan/arisan" >}}
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor elit sed vulputate mi sit. In massa tempor nec feugiat nisl pretium fusce id velit.
 {{< /listwrapper >}}
 
