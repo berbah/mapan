@@ -34,7 +34,7 @@ sections:
   - layanan-template
 - type: directory
   path: promos
-  label: "- Promo Parent Management -"
+  label: Promo Parent Management
   create: all
   match: "**/*"
   templates:
