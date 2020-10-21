@@ -6,7 +6,7 @@ date = 2020-08-18T14:54:34Z
 title = "Mapan Mart"
 
 +++
-# Apa itu Mapan Mart
+## Apa itu Mapan Mart
 
 ![](/images/mailer-mapanmart-page-1.png)
 
@@ -14,7 +14,7 @@ Mapan Mart adalah layanan untuk memudahkan Mitra Usaha Mapan berjualan sembako d
 
 Mapan bekerjasama dengan Blibli.com untuk memenuhi kebutuhan harian MUM cukup dengan satu aplikasi Mapan.
 
-Cara Kerja Mapan Mart
+### Cara Kerja Mapan Mart
 
 Mapan Mart tersedia di aplikasi Mapan! Tinggal klik ikon Mapan Mart di halaman utama Mapan dan kamu bisa langsung mulai belanja hemat.
 
@@ -26,7 +26,7 @@ Mapan Mart tersedia di aplikasi Mapan! Tinggal klik ikon Mapan Mart di halaman u
 
 ![](/images/e-booklet-mapan-mart-02.jpg)
 
-Ketentuan Bebas Ongkir Belanja di Mapan Mart:
+### Ketentuan Bebas Ongkir Belanja di Mapan Mart:
 
 * Bebas ongkir berlaku jika total transaksi setelah dipotong kode promo/voucher belanja minimal Rp50.000 di luar ongkir.
 * Tiap transaksi Rp50.000 bisa dapat subsidi ongkir Rp20.000
