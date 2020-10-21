@@ -22,7 +22,7 @@
 
       <div class="taxonomy-card">
 
-        {{ $filename := lower .Title }}
+        {{ $filename := .File.BaseFileName }}
         {{ $imagePath := print "/images/" $filename ".png" }}
         {{ $absolutePath := print "static" $imagePath}}
 
