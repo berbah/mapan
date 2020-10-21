@@ -18,5 +18,3 @@ Berdiri sejak tahun 2009, MAPAN mengawali perjalanannya dengan menjadi salah sat
 Pada tahun 2015, MAPAN meluncurkan Mapan Arisan, terobosan baru untuk memenuhi kebutuhan produk dasar rumah tangga melalui aplikasi digital dimana komunitasnya berkembang secara pesat mulai dari 1,000 anggota hingga 3 juta anggota yang telah bergabung saat ini.
 
 Kini MAPAN telah mengembangkan sayapnya dengan memiliki lebih dari 5 produk dan layanan yang dapat diakses hanya dengan 1 aplikasi.
-
-<a href="a">tes</a>
