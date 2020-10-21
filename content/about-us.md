@@ -11,7 +11,9 @@ MAPAN adalah sebuah perusahaan berbasis komunitas digital di Indonesia yang memi
 
 Kami juga turut memberdayakan masyarakat untuk bisa dapat penghasilan melalui produk dan layanan mulai dari Mapan Sayur, Mapan Pulsa, Mapan Mart, Mapan Voucher, Mapan Arisan, hingga Mapan Donasi Plus. Seluruh rangkaian produk dan layanan ini bisa didapatkan melalui satu aplikasi MAPAN yang dapat diunduh di Google Play Store. Ikuti perkembangan kami pada Facebook & Instagram resmi kami.
 
-## **![](/images/mapan-master-logo.png)Sejarah Mapan**
+## **![](/images/mapan-master-logo.png)**
+
+## **Sejarah Mapan**
 
 Berdiri sejak tahun 2009, MAPAN mengawali perjalanannya dengan menjadi salah satu pionir agen layanan pulsa dan PPOB (payment point online bank) yang beroperasi di pulau Jawa dan Bali.
 
