@@ -5,13 +5,15 @@ image = ""
 title = "About Us"
 
 +++
+**![](/images/mapan-master-logo.png)**
+
 ## **Apa itu MAPAN?**
 
 MAPAN adalah sebuah perusahaan berbasis komunitas digital di Indonesia yang memiliki misi untuk meningkatkan akses, derajat, dan pendapatan masyarakat Indonesia. Kami percaya teknologi bisa menyatukan kekuatan jutaan masyarakat Indonesia untuk saling bekerja sama dengan menjual dan membeli berbagai produk dan layanan terjangkau yang dapat meningkatkan kualitas hidup masyarakat Indonesia.
 
 Kami juga turut memberdayakan masyarakat untuk bisa dapat penghasilan melalui produk dan layanan mulai dari Mapan Sayur, Mapan Pulsa, Mapan Mart, Mapan Voucher, Mapan Arisan, hingga Mapan Donasi Plus. Seluruh rangkaian produk dan layanan ini bisa didapatkan melalui satu aplikasi MAPAN yang dapat diunduh di Google Play Store. Ikuti perkembangan kami pada Facebook & Instagram resmi kami.
 
-## **![](/images/mapan-master-logo.png)**
+## 
 
 ## **Sejarah Mapan**
 
