@@ -21,9 +21,11 @@ Untuk menjawab secara singkat apa itu Mapan DonasiPlus dalam satu kalimat, kira-
 3\. Donasi minimal Rp 10.000  
 4\. Verifikasi dengan KTP
 
+![](/images/4-mei-01.png)
+
 ## Cara Kerja Mapan DonasiPlus
 
-  
+![](/images/5-6-mei-01.png)  
 Mapan DonasiPlus merupakan layanan yang membantu peserta untuk memiliki dana darurat apabila peserta terkena penyakit kritisi dengan mudah melalui aplikasi Mapan. Peserta bisa berdonasi mulai dari Rp 10.000 untuk mendapatkan dana darurat hingga Rp 100.000.000. Dana bisa diberikan apabila peserta mengalami penyakit kritis.   
   
 Anggota dapat menerima bantuan jika memenuhi persyaratan-persyaratan di bawah ini:   
