@@ -28,13 +28,13 @@ fields:
     source:
       type: custom
     options:
-        - "arisan"
-        - "donasi"
-        - "mart"
-        - "pulsa"
-        - "sayur"
-        - "toko"
-        - "voucher"
+    - arisan
+    - donasi
+    - mart
+    - pulsa
+    - sayur
+    - toko
+    - voucher
 pages:
 - content/promo/dapatkan-poin-arisan-di-bulan-agustus.md
 - content/promo/kejutan-arisan-di-september-2020.md
