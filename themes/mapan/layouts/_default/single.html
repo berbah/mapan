@@ -7,7 +7,6 @@
 {{ end }}
 
 {{ define "main" }}
-
   {{ with .Params.Image }}
     {{ $absolutePath := print "static/" . }}
     {{ if fileExists $absolutePath }}
@@ -16,6 +15,20 @@
       </div>
     {{ end }}
   {{ end }}
+  
+  {{ if eq .Dir "layanan/" }}  
+  
+  <div class="taxonony-header">
+    <h1>{{ .Title }}</h1>
+  </div>
+
+  <section class="content">
+
+    {{ .Content }}
+
+  </section>
+
+  {{ else }}
 
   <section class="content">
     
@@ -24,5 +37,7 @@
     {{ .Content }}
 
   </section>
+  
+  {{ end }}
 
 {{ end }}
