@@ -4,7 +4,6 @@ Description = "description"
 Promos = "arisan"
 Tags = []
 date = 2020-10-27T14:19:05Z
-draft = true
 image = "/images/screen-shot-2020-10-26-at-15-36-44.png"
 title = "Form"
 
