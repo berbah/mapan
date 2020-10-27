@@ -1,0 +1,6 @@
+{{- $id := .Get "id" -}}
+{{- $width := .Get "width" -}}
+{{- $defaultWidth := "100%" -}}
+{{- $height := .Get "height" -}}
+{{- $defaultHeight := "450" -}}
+<iframe src="https://docs.google.com/forms/d/e/{{ $id }}/viewform?embedded=true" width="{{ $width | default $defaultWidth }}" height="{{ $height | default $defaultHeight }}" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
