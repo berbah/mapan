@@ -24,6 +24,18 @@ fields:
 - type: list
   name: Promos
   label: Promos
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - arisan
+    - donasi
+    - mart
+    - pulsa
+    - sayur
+    - toko
+    - voucher
 pages:
 - content/promo/dapatkan-poin-arisan-di-bulan-agustus.md
 - content/promo/kejutan-arisan-di-september-2020.md
