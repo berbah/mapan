@@ -59,22 +59,26 @@ Komisi akan dibayarkan pada saat periode arisan sudah berakhir, tergantung laman
 ## Cara Mendapatkan Anggota Arisan
 
 1\. Tuliskan Komunitas Yang Kamu Ikuti  
-Langkah pertama untuk mendapatkan anggota Mapan Arisan adalah dengan mengingat komunitas apa saja yang kamu ikuti. Komunitas ini bisa berupa komunitas kompleks perumahan di sekitar kamu, posyandu, arisan keluarga, ibu-ibu PKK, kelompok pengajian, dan lainnya. Tuliskan komunitas-komunitas yang kamu ikuti di selembar kertas.  
-  
+Langkah pertama untuk mendapatkan anggota Mapan Arisan adalah dengan mengingat komunitas apa saja yang kamu ikuti. Komunitas ini bisa berupa komunitas kompleks perumahan di sekitar kamu, posyandu, arisan keluarga, ibu-ibu PKK, kelompok pengajian, dan lainnya. Tuliskan komunitas-komunitas yang kamu ikuti di selembar kertas.
+
 2\. Tulis Nama Anggota Yang Akan Kamu Ajak  
-Langkah kedua untuk mendapatkan anggota adalah dengan menuliskan nama-nama anggota komunitas yang kamu ikuti. Di dalam setiap komunitas, besar kemungkinan ada lebih dari lima orang yang bisa kamu tuliskan. Jika kamu memiliki tiga komunitas, misalnya, kamu bisa menuliskan 15 nama. Tuliskan nama-nama ini di selembar kertas beserta nomor kontak mereka.  
-  
+Langkah kedua untuk mendapatkan anggota adalah dengan menuliskan nama-nama anggota komunitas yang kamu ikuti. Di dalam setiap komunitas, besar kemungkinan ada lebih dari lima orang yang bisa kamu tuliskan. Jika kamu memiliki tiga komunitas, misalnya, kamu bisa menuliskan 15 nama. Tuliskan nama-nama ini di selembar kertas beserta nomor kontak mereka.
+
 3\. Tawarkan Produk Mapan Arisan di katalog dalam aplikasi Mapan kamu  
-Langkah berikutnya dalam mendapatkan anggota adalah menghubungi dan menawarkan Mapan Arisan ke mereka. Alat utama kamu untuk menawarkan Arisan Mapan adalah dengan menggunakan katalog yang ada di aplikasi kamu.  
-  
+Langkah berikutnya dalam mendapatkan anggota adalah menghubungi dan menawarkan Mapan Arisan ke mereka. Alat utama kamu untuk menawarkan Arisan Mapan adalah dengan menggunakan katalog yang ada di aplikasi kamu.
+
 4\. Catat Data Anggota  
-Jika kamu sudah mendapatkan minimal 3 anggota, kamu sudah memiliki jumlah minimal 4 orang (termasuk diri kamu) untuk memulai Mapan Arisan. Kamu membutuhkan minimal 4 orang untuk memulai kelompok arisan. Selanjutnya tuliskan detail untuk setiap anggota:  
-  
+Jika kamu sudah mendapatkan minimal 3 anggota, kamu sudah memiliki jumlah minimal 4 orang (termasuk diri kamu) untuk memulai Mapan Arisan. Kamu membutuhkan minimal 4 orang untuk memulai kelompok arisan. Selanjutnya tuliskan detail untuk setiap anggota:
+
 \- Nama Anggota  
 \- Barang yang Dipesan  
 \- Harga Barang  
-\- Jumlah Setoran untuk anggota tersebut = Harga Barang dibagi periode bulan Arisan  
-  
-5\. Daftarkan Anggota dan Kelompok Arisanmu  
-  
+\- Jumlah Setoran untuk anggota tersebut = Harga Barang dibagi periode bulan Arisan
+
+5\. Daftarkan Anggota dan Kelompok Arisanmu
+
 Daftarkan anggota arisan untuk memulai Mapan Arisan melalui aplikasimu!
+
+![](/images/whatsapp-image-2020-11-17-at-16-02-40-2.jpeg)
+
+![](/images/whatsapp-image-2020-11-17-at-16-02-40-3.jpeg)
