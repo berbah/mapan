@@ -22,4 +22,8 @@ Dua keuntungan dengan mengunduh katalog yaitu kemudahan membaca tanpa tergantung
 
 ![](/images/whatsapp-image-2020-11-17-at-16-02-40-2.jpeg)
 
+[download katalog 1](/images/whatsapp-image-2020-11-17-at-16-02-40-2.jpeg)
+
 ![](/images/whatsapp-image-2020-11-17-at-16-02-40-3.jpeg)
+
+[download katalog 2](/images/whatsapp-image-2020-11-17-at-16-02-40-3.jpeg)
