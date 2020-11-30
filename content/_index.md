@@ -60,7 +60,8 @@ Mapan Voucher layanan yang membantu Mitra Usaha Mapan menjual berbagai produk vo
 Mapan bekerja sama dengan Kita Bisa Saling Jaga membantu Mitra Usaha Mapan berdonasi untuk mendapatkan perlindungan diri dari penyakit kritis. Dapatkan perlindungan diri dari penyakit kritis hingga Rp 100.000.000 cukup dengan donasi Rp 10.000.
 {{< listitem title="Mapan Arisan" color="#f79421" url="/layanan/arisan" >}}
 Mapan Arisan, layanan yang dipercaya oleh 3 juta anggota se-Indonesia. Mapan Arisan telah bantu lebih dari 300 ribu Mitra Usaha Mapan bisa dapat penghasilan dengan menyediakan berbagai kebutuhan rumah tangga berkualitas dengan harga yang terjangkau melalui sistem arisan.
-{{< /listwrapper >}}
+
+{{< listitem title="Mapan Toko" color="#f79421" url="/layanan/toko" >}} Mapan bekerja sama dengan WINGS, OT, dan Cimory membantu para Mitra Usaha Mapan agar bisa berjualan produk kebutuhan sehari-hari dengan harga khusus Mitra Usaha Mapan. Raih penghasilan hingga Rp 500,000 per bulan dari Mapan Toko{{< /listwrapper >}}
 
 {{< br >}}
 {{< bar >}}
