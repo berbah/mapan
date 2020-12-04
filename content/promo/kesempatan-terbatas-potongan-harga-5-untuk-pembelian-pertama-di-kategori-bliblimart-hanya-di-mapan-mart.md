@@ -1,7 +1,7 @@
 +++
 Categories = []
 Description = ""
-Promos = ""
+Promos = "mart"
 Tags = []
 date = 2020-12-04T07:44:14Z
 image = ""
