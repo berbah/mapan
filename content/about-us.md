@@ -5,7 +5,7 @@ image = ""
 title = "About Us"
 
 +++
-**![](/images/mapan-master-logo.png)**
+![](/images/mapan-logo-april-2020-rgb-_signature-logo-cmyk.png)
 
 ## **Apa itu MAPAN?**
 
