@@ -3,7 +3,7 @@ Categories = []
 Description = "Simak perjalanan Mapan dan usaha Mapan mensejahterakan keluarga Indonesia."
 Tags = []
 date = 2020-08-18T14:56:35Z
-title = "PERJALANAN MAPAN"
+title = "History"
 
 +++
 2009 : MAPAN didirikan untuk meningkatkan akses, derajat, dan pendapatan bagi keluarga Indonesia yang dimulai dengan merekrut masyarakat sekitar menjadi agen jual pulsa telepon seluler.  
