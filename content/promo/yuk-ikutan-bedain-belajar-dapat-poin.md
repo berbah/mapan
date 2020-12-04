@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Semangat pagi MUM! Ada yang spesial dari Komunitas Belajar di bulan Desember 2020 ini lho karena ada BEDAIN! Belajar Dapat Poin!"
 Promos = "arisan"
 Tags = []
 date = 2020-12-04T06:03:38Z
@@ -10,7 +10,7 @@ title = "Yuk ikutan BEDAIN! Belajar Dapat Poin!"
 +++
 ![](/images/4-december-2020-komunitas-belajar-640x640.jpg)
 
-Semmangat pagi MUM! Ada yang spesial dari Komunitas Belajar di bulan Desember 2020 ini lho karena ada BEDAIN! Belajar Dapat Poin!
+Semangat pagi MUM! Ada yang spesial dari Komunitas Belajar di bulan Desember 2020 ini lho karena ada BEDAIN! Belajar Dapat Poin!
 
 Program ini dibuat untuk meningkatkan motivasi dari MUM semua untuk mengikuti program belajar seperti mengisi kuis dan melaksanakan tugas dari Komunitas Belajar. Yuk simak syarat dan ketentuannya di bawah:
 
