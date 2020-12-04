@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Akhir tahun gini siapa sih yang nggak mau insentif yang makin besar? Pastinya mau kan MUM! Selama bulan Desember ini, setiap MUM yang melakukan transaksi di Mapan Sayur."
 Promos = "sayur"
 Tags = []
 date = 2020-12-04T07:40:02Z
