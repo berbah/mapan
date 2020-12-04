@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Buruan Raih kesempatan terbatasnya MUM buat dapetin potongan harga 5% untuk pembelian pertama di kategori BliBli Mart yang hanya ada di Aplikasi Mapan Mart. Lumayan kan bisa hemat sedikit dengan potongannya hihi"
 Promos = "mart"
 Tags = []
 date = 2020-12-04T07:44:14Z
