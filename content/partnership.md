@@ -5,4 +5,4 @@ image = ""
 title = "Partnership"
 
 +++
-partnership
+{{< gform id="1FAIpQLSeEAaPc-vwHyorM3y8Fq-k71kUpQNcjopkZUk3pUZfVTwtMUA" height="600" >}}
