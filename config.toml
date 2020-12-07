@@ -8,18 +8,12 @@ identifier = "promos"
 name = "Promo"
 pre = ""
 url = "/promos/"
-weight = 5
+weight = 4
 [[menu.footer]]
 identifier = "media"
 name = "Media Release"
 pre = ""
 url = "/media/"
-weight = 4
-[[menu.footer]]
-identifier = "faq"
-name = "FAQ"
-pre = ""
-url = "/faq/"
 weight = 3
 [[menu.footer]]
 identifier = "partnership"
