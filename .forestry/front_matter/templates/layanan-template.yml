@@ -12,12 +12,6 @@ fields:
 - type: textarea
   name: Description
   label: Description
-- type: list
-  name: Tags
-  label: Tags
-- type: list
-  name: Categories
-  label: Categories
 - name: weight
   type: number
   label: Weight
@@ -28,6 +22,12 @@ fields:
     min: 
     max: 
     step: 
+- type: list
+  name: Tags
+  label: Tags
+- type: list
+  name: Categories
+  label: Categories
 pages:
 - content/layanan/arisan.md
 - content/layanan/donasi.md
