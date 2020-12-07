@@ -18,6 +18,16 @@ fields:
 - type: list
   name: Categories
   label: Categories
+- name: weight
+  type: number
+  label: Weight
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - content/layanan/arisan.md
 - content/layanan/donasi.md
