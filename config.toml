@@ -4,17 +4,21 @@ paginate = 5
 theme = "mapan"
 title = "Mapan"
 [[menu.footer]]
+name = "FAQ"
+url = "/faq/"
+weight = 3
+[[menu.footer]]
 identifier = "promos"
 name = "Promo"
 pre = ""
 url = "/promos/"
-weight = 4
+weight = 5
 [[menu.footer]]
 identifier = "media"
 name = "Media Release"
 pre = ""
 url = "/media/"
-weight = 3
+weight = 4
 [[menu.footer]]
 identifier = "partnership"
 name = "Partner Inquiry"
@@ -32,12 +36,6 @@ identifier = "blog"
 name = "Blog"
 pre = ""
 url = "https://www.mapan.id/blog/"
-weight = 7
-[[menu.main]]
-identifier = "faq"
-name = "FAQ"
-pre = ""
-url = "/faq/"
 weight = 6
 [[menu.main]]
 identifier = "partnership"
