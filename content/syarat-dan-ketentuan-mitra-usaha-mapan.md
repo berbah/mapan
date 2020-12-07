@@ -2,7 +2,7 @@
 Description = ""
 date = 2020-12-07T05:12:35Z
 image = ""
-title = "Syarat dan Ketentuan Mitra Usaha Mapan"
+title = "syarat dan ketentuan Mitra Usaha Mapan"
 
 +++
 **Syarat dan Ketentuan MUM**
