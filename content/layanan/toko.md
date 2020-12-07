@@ -4,6 +4,7 @@ Description = "Layanan yang memungkinkan para Mitra Usaha punya toko dari rumah.
 Tags = []
 date = 2020-10-21T12:45:00Z
 title = "MAPAN TOKO"
+weight = 3
 
 +++
 **APA ITU MAPAN TOKO**

@@ -4,6 +4,7 @@ Description = "Tambah Penghasilan Dengan Sediakan Voucher Diskonan"
 Tags = []
 date = 2020-08-18T14:54:28Z
 title = "Voucher"
+weight = 6
 
 +++
 **Apa itu Mapan Voucher?**

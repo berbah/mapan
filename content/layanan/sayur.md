@@ -4,6 +4,7 @@ Description = "Mapan Sayur adalah layanan untuk memudahkan Mitra Usaha Mapan ber
 Tags = []
 date = 2020-08-18T14:54:44Z
 title = "Sayur"
+weight = 5
 
 +++
 **Apa itu Mapan Sayur?**

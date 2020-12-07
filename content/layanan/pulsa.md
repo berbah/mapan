@@ -4,6 +4,7 @@ Description = "Tambah penghasilan dari berjualan pulsa mulai dari pulsa reguler,
 Tags = []
 date = 2020-08-18T14:54:21Z
 title = "Pulsa"
+weight = 2
 
 +++
 **_Mapan Pulsa_**

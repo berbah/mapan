@@ -4,6 +4,7 @@ Description = "Layanan donasi berbasis tolong-menolong agar peserta donasi dapat
 Tags = []
 date = 2020-08-18T14:54:39Z
 title = "Donasi"
+weight = 7
 
 +++
 ## Apa Itu Mapan DonasiPlus

@@ -4,6 +4,7 @@ Description = "Mapan Arisan adalah arisan barang yang dikelola oleh PT. RUMA yan
 Tags = []
 date = 2020-08-18T14:53:08Z
 title = "Arisan"
+weight = 1
 
 +++
 ![](/images/984-x-408-banne-mapan-arisan.png)

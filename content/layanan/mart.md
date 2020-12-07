@@ -4,6 +4,7 @@ Description = "Mapan Mart adalah layanan untuk memudahkan Mitra Usaha Mapan berj
 Tags = []
 date = 2020-08-18T14:54:34Z
 title = "Mapan Mart"
+weight = 4
 
 +++
 ## Apa itu Mapan Mart
