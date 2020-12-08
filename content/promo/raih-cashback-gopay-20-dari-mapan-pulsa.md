@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Yuk raih keuntungan dengan cashback Gopay 20%"
 Promos = "pulsa"
 Tags = []
 date = 2020-12-08T08:00:09Z
