@@ -1,8 +1,8 @@
 +++
 Description = ""
 date = 2020-09-27T04:45:21Z
-image = "/images/upload_ff21439aa28648ce212722216f76ffb2.png"
+image = "/images/promo-header.png"
 title = "Mart"
 
 +++
-Pulsa Mart mantab lo promonya
+Ada promo spesial potongan harga 5% buat MUM di Mapan Mart nih! Pasti hemat, pasti lebih untung! Cek promonya di sini!
