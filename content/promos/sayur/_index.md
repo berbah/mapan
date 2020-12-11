@@ -1,8 +1,8 @@
 +++
 Description = ""
 date = 2020-09-27T04:45:21Z
-image = "/images/upload_ff21439aa28648ce212722216f76ffb2.png"
-title = "Donasi"
+image = "/images/promo-header.png"
+title = "Sayur"
 
 +++
-Kang Sayur gais
+Jualan sayur pasti lebih untung dengan Promo Insentif yang Makin Besar di Mapan Sayur lho MUM! Yuk cek promonya!
