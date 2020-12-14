@@ -21,22 +21,22 @@ Sekarang katalog digital akan launching setiap minggu lho, pantengin terus supay
 
 Dua keuntungan dengan mengunduh katalog yaitu kemudahan membaca tanpa tergantung koneksi internet dan lebih praktis dibawa dibandingkan katalog cetak. Apabila kamu termasuk orang yang sering berpindah-pindah tempat, unduh katalog Arisan Mapan dapat merupakan solusi yang tepat untuk bisa mengajak teman-teman kamu ikutan Arisan Mapan.
 
-![](/images/katalog-mapan-arisan-periode-1-31-desember-2020.jpg)
+![](/images/prt-katalog-mapan-arisan-periode-14-desember.jpg)
 
-[download katalog 1](/images/katalog-mapan-arisan-periode-1-31-desember-2020.jpg)
+[Download Katalog Peralatan Rumah Tangga](/images/prt-katalog-mapan-arisan-periode-14-desember.pdf)
 
-![](/images/katalog-mapan-arisan-periode-1-31-desember-20202.jpg)
+![](/images/elektronik-kecil-katalog-mapan-arisan-periode-14-desember.jpg)
 
-[download katalog 2](/images/katalog-mapan-arisan-periode-1-31-desember-20202.jpg)
+[Download Katalog Elektronik Kecil](/images/elektronik-kecil-katalog-mapan-arisan-periode-14-desember.pdf)
 
-![](/images/katalog-mapan-arisan-periode-1-31-desember-20203.jpg)
+![](/images/elektronik-besar-katalog-mapan-arisan-periode-14-desember.jpg)
 
-[download katalog 3](/images/katalog-mapan-arisan-periode-1-31-desember-20203.jpg)
+[Download Katalog Elektronik Besar](/images/elektronik-besar-katalog-mapan-arisan-periode-14-desember.pdf)
 
-![](/images/katalog-mapan-arisan-periode-1-31-desember-20204.jpg)
+![](/images/furniture-katalog-mapan-arisan-periode-14-desember.jpg)
 
-[download katalog 4](/images/katalog-mapan-arisan-periode-1-31-desember-20204.jpg)
+[Download Katalog Furniture](/images/furniture-katalog-mapan-arisan-periode-14-desember.pdf)
 
-![](/images/katalog-mapan-arisan-periode-1-31-desember-20205.jpg)
+![](/images/tidur-mandi-katalog-mapan-arisan-periode-14-desember.jpg)
 
-[download katalog 5](/images/katalog-mapan-arisan-periode-1-31-desember-20205.jpg)
+[Download Katalog Tidur Mandi](/images/tidur-mandi-katalog-mapan-arisan-periode-14-desember.pdf)
