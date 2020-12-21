@@ -21,6 +21,14 @@ Sekarang katalog digital akan launching setiap minggu lho, pantengin terus supay
 
 Dua keuntungan dengan mengunduh katalog yaitu kemudahan membaca tanpa tergantung koneksi internet dan lebih praktis dibawa dibandingkan katalog cetak. Apabila kamu termasuk orang yang sering berpindah-pindah tempat, unduh katalog Arisan Mapan dapat merupakan solusi yang tepat untuk bisa mengajak teman-teman kamu ikutan Arisan Mapan.
 
+![](https://cdn-web.mapan.id/web-images/(TERLARIS)%20KATALOG%20MAPAN%20ARISAN%20Periode%2021%20Desember.jpg)
+
+[Download katalog terlaris](http://cdn-web.mapan.id/katalog/(TERLARIS)%20KATALOG%20MAPAN%20ARISAN%20Periode%2021%20Desember.pdf)
+
+![](https://cdn-web.mapan.id/web-images/(TERBARU)%20KATALOG%20MAPAN%20ARISAN%20Periode%2021%20Desember.jpg)
+
+[Download katalog terbaru](https://cdn-web.mapan.id/katalog/(TERBARU)%20KATALOG%20MAPAN%20ARISAN%20Periode%2021%20Desember.pdf)
+
 ![](/images/prt-katalog-mapan-arisan-periode-14-desember.jpg)
 
 [Download Katalog Peralatan Rumah Tangga](/images/prt-katalog-mapan-arisan-periode-14-desember.pdf)
