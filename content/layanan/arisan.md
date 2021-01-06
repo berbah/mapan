@@ -21,6 +21,14 @@ Sekarang katalog digital akan launching setiap minggu lho, pantengin terus supay
 
 Dua keuntungan dengan mengunduh katalog yaitu kemudahan membaca tanpa tergantung koneksi internet dan lebih praktis dibawa dibandingkan katalog cetak. Apabila kamu termasuk orang yang sering berpindah-pindah tempat, unduh katalog Arisan Mapan dapat merupakan solusi yang tepat untuk bisa mengajak teman-teman kamu ikutan Arisan Mapan.
 
-![](https://storage.googleapis.com/cdn-web.mapan.id/katalog/1.%20TERBARU%20KATALOG%20MAPAN%20ARISAN%20Periode%206%20Januari.jpg)
+![](https://storage.googleapis.com/cdn-web.mapan.id/katalog/1.%20TERLARIS%20KATALOG%20MAPAN%20ARISAN%20Periode%206%20Januari.jpg)
 
-[Download katalog disini](https://storage.googleapis.com/cdn-web.mapan.id/katalog/FINAL%20TERBARU%20KATALOG%20MAPAN%20ARISAN%20Periode%206%20Januari.pdf)
+[Download disini](https://storage.googleapis.com/cdn-web.mapan.id/katalog/TERLARIS%20KATALOG%20MAPAN%20ARISAN%20Periode%206%20Januari%20(2).pdf)
+
+![](https://storage.googleapis.com/cdn-web.mapan.id/katalog/2.%20TERLARIS%20KATALOG%20MAPAN%20ARISAN%20Periode%206%20Januari2.jpg)
+
+[Download disini ](https://storage.googleapis.com/cdn-web.mapan.id/katalog/2.%20TERLARIS%20KATALOG%20MAPAN%20ARISAN%20Periode%206%20Januari2.pdf)
+
+![](https://storage.googleapis.com/cdn-web.mapan.id/katalog/3.%20TERLARIS%20KATALOG%20MAPAN%20ARISAN%20Periode%206%20Januari3.jpg)
+
+[Download disini](https://storage.googleapis.com/cdn-web.mapan.id/katalog/3.%20TERLARIS%20KATALOG%20MAPAN%20ARISAN%20Periode%206%20Januari3.pdf)
