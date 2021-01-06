@@ -32,3 +32,7 @@ Dua keuntungan dengan mengunduh katalog yaitu kemudahan membaca tanpa tergantung
 ![](https://storage.googleapis.com/cdn-web.mapan.id/katalog/3.%20TERLARIS%20KATALOG%20MAPAN%20ARISAN%20Periode%206%20Januari3.jpg)
 
 [Download disini](https://storage.googleapis.com/cdn-web.mapan.id/katalog/3.%20TERLARIS%20KATALOG%20MAPAN%20ARISAN%20Periode%206%20Januari3.pdf)
+
+![](https://storage.googleapis.com/cdn-web.mapan.id/katalog/1.%20TERBARU%20KATALOG%20MAPAN%20ARISAN%20Periode%206%20Januari.jpg)
+
+[Download Disini](https://storage.googleapis.com/cdn-web.mapan.id/katalog/Edit%20TERBARU%20KATALOG%20MAPAN%20ARISAN%20Periode%206%20Januari.pdf)
