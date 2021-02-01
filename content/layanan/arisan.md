@@ -21,10 +21,18 @@ Sekarang katalog digital akan launching setiap minggu lho, pantengin terus supay
 
 Dua keuntungan dengan mengunduh katalog yaitu kemudahan membaca tanpa tergantung koneksi internet dan lebih praktis dibawa dibandingkan katalog cetak. Apabila kamu termasuk orang yang sering berpindah-pindah tempat, unduh katalog Arisan Mapan dapat merupakan solusi yang tepat untuk bisa mengajak teman-teman kamu ikutan Arisan Mapan.
 
-![](https://storage.googleapis.com/cdn-web.mapan.id/katalog/FINAL%20TERBARU%20KATALOG%20MAPAN%20ARISAN%20Periode%2018%20Januari.jpg)
+![](https://storage.googleapis.com/cdn-web.mapan.id/katalog/katalog-februari/TERLARIS%20KATALOG%20MAPAN%20ARISAN%20Periode%201%20FEBRUARI.jpg)
 
-[Download Katalog Disini](https://storage.googleapis.com/cdn-web.mapan.id/katalog/FINAL%20TERBARU%20KATALOG%20MAPAN%20ARISAN%20Periode%2018%20Januari.pdf)
+[Download disini](https://storage.googleapis.com/cdn-web.mapan.id/katalog/katalog-februari/TERLARIS%20KATALOG%20MAPAN%20ARISAN%20Periode%201%20FEBRUARI.pdf)
 
-![](https://storage.googleapis.com/cdn-web.mapan.id/katalog/FINAL%20TERLARIS%20KATALOG%20MAPAN%20ARISAN%20Periode%2018%20Januari.jpg)
+![](https://storage.googleapis.com/cdn-web.mapan.id/katalog/katalog-februari/TERLARIS%20KATALOG%20MAPAN%20ARISAN%20Periode%201%20FEBRUARI2.jpg)
 
-[Download Katalog Disini](https://storage.googleapis.com/cdn-web.mapan.id/katalog/FINAL%20TERLARIS%20KATALOG%20MAPAN%20ARISAN%20Periode%2018%20Januari.pdf)
+[Download disini](https://storage.googleapis.com/cdn-web.mapan.id/katalog/katalog-februari/TERLARIS%20KATALOG%20MAPAN%20ARISAN%20Periode%201%20FEBRUARI2.pdf)
+
+![](https://storage.googleapis.com/cdn-web.mapan.id/katalog/katalog-februari/TERLARIS%20KATALOG%20MAPAN%20ARISAN%20Periode%201%20FEBRUARI3.jpg)
+
+[Download disini](https://storage.googleapis.com/cdn-web.mapan.id/katalog/katalog-februari/TERLARIS%20KATALOG%20MAPAN%20ARISAN%20Periode%201%20FEBRUARI3.pdf)
+
+![](https://storage.googleapis.com/cdn-web.mapan.id/katalog/katalog-februari/TERLARIS%20KATALOG%20MAPAN%20ARISAN%20Periode%201%20FEBRUARI4.png)
+
+[Download disini](https://storage.googleapis.com/cdn-web.mapan.id/katalog/katalog-februari/TERLARIS%20KATALOG%20MAPAN%20ARISAN%20Periode%201%20FEBRUARI4.pdf)
